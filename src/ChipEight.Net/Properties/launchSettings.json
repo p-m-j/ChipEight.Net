@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChipEight.Net": {
+      "commandName": "Project",
+      "commandLineArgs": "$(SolutionDir)/misc/Invaders.ch8"
+    }
+  }
+}
